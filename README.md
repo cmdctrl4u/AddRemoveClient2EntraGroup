@@ -5,4 +5,4 @@ Managing device group memberships in Entra ID can be a tedious process, especial
 
 This blog post will walk you through a PowerShell script that dynamically assigns devices to Azure AD groups depending on whether specific software is installed (or anything else you will query).
 
-Fur further information visit my blog: https://cmdctrl4u.wordpress.com/
+Fur further information visit my blog: https://cmdctrl4u.wordpress.com/2025/04/03/managing-entra-id-group-memberships-dynamically-based-on-installed-software-or-anything-else/
